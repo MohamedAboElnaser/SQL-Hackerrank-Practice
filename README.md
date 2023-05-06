@@ -14,3 +14,4 @@ This repo will contains SQL problems That I solved at Hackerrank
 | Weather Observation Station 5  | [Script](/Sql_scripts/Weather%20Observation%20Station%205/)|
 | Weather Observation Station 6  | [Script](/Sql_scripts/Weather%20Observation%20Station%206/)|
 | Weather Observation Station 8  | [Script](/Sql_scripts/Weather%20Observation%20Station%208/)|
+| Higher Than 75 Marks  | [Script](/Sql_scripts/Higher%20Than%2075%20Marks/)|
