@@ -8,4 +8,3 @@ The STATION table is described as follows:
 
 ![alt](../Weather%20Observation%20Station%203/1449345840-5f0a551030-Station.jpg)
 
-
