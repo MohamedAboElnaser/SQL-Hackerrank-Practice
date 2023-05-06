@@ -12,3 +12,4 @@ This repo will contains SQL problems That I solved at Hackerrank
 | Weather Observation Station 3  | [Script](/Sql_scripts/Weather%20Observation%20Station%203/)|
 | Weather Observation Station 4  | [Script](/Sql_scripts/Weather%20Observation%20Station%204/)|
 | Weather Observation Station 5  | [Script](/Sql_scripts/Weather%20Observation%20Station%205/)|
+| Weather Observation Station 6  | [Script](/Sql_scripts/Weather%20Observation%20Station%206/)|
