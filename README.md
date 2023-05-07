@@ -1,17 +1,8 @@
-## Introduction 
-This repo will contains SQL problems That I solved at Hackerrank 
+# Introduction 
+This repo will contains SQL problems That I solved 
 
-### Table of content 
 
-| Problem      | Solution |
-| :-----------: | :-----------: |
-| Revising the Select Query I    | [Script](/Sql_scripts/Revising%20the%20Select%20Query%20I/)|
-| Revising the Select Query II   | [Script](/Sql_scripts/Revising%20the%20Select%20Query%20II/)|
-| Select By ID                   | [Script](/Sql_scripts/Select%20By%20ID/)|
-| Japanes Cities Attributes      | [Script](/Sql_scripts/Japanese%20Cities%20Attributes/)|
-| Weather Observation Station 3  | [Script](/Sql_scripts/Weather%20Observation%20Station%203/)|
-| Weather Observation Station 4  | [Script](/Sql_scripts/Weather%20Observation%20Station%204/)|
-| Weather Observation Station 5  | [Script](/Sql_scripts/Weather%20Observation%20Station%205/)|
-| Weather Observation Station 6  | [Script](/Sql_scripts/Weather%20Observation%20Station%206/)|
-| Weather Observation Station 8  | [Script](/Sql_scripts/Weather%20Observation%20Station%208/)|
-| Higher Than 75 Marks  | [Script](/Sql_scripts/Higher%20Than%2075%20Marks/)|
+# `Content`
+
+- [Leetcode](leetcode_sqlScripts/)
+- [Hackerran](hackerrank_sql_scripts/)
