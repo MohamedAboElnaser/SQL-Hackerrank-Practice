@@ -16,3 +16,4 @@ This repo will contains SQL problems That I solved at Hackerrank
 | Weather Observation Station 8  | [Script](/hackerrank_sql_scripts/Weather%20Observation%20Station%208/)|
 | Higher Than 75 Marks  | [Script](/hackerrank_sql_scripts/Higher%20Than%2075%20Marks/)|
 | Type of Triangle  | [Script](/hackerrank_sql_scripts/Type%20of%20Triangle/)|
+| Revising Aggregations - The Count Function| [Script](/hackerrank_sql_scripts/Revising%20Aggregations%20-%20The%20Count%20Function/)|
