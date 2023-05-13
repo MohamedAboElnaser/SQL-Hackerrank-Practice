@@ -12,3 +12,4 @@ This repo will contains SQL problems That I solved at LeetCode.
 | 183. Customers Who Never Order| [script](sql_scripts/183.%20Customers%20Who%20Never%20Order.sql)|
 | 184. Department Highest Salary| [script](sql_scripts/184.%20Department%20Highest%20Salary.sql)|
 | 1965. Employees With Missing Information| [script](sql_scripts/1965.%20Employees%20With%20Missing%20Information.sql)|
+| 1890. The Latest Login in 2020| [script](sql_scripts/1890.%20The%20Latest%20Login%20in%202020.sql)|
