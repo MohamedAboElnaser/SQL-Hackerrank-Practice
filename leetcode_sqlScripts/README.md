@@ -15,3 +15,4 @@ This repo will contains SQL problems That I solved at LeetCode.
 | 1890. The Latest Login in 2020| [script](sql_scripts/1890.%20The%20Latest%20Login%20in%202020.sql)|
 | 196. Delete Duplicate Emails| [script](sql_scripts/196.%20Delete%20Duplicate%20Emails.sql)|
 | 1729. Find Followers Count| [script](sql_scripts/1729.%20Find%20Followers%20Count.sql)|
+| 1741. Find Total Time Spent by Each Employee| [script](sql_scripts/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)|
