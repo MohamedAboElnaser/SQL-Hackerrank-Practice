@@ -18,3 +18,4 @@ This repo will contains SQL problems That I solved at LeetCode.
 | 1741. Find Total Time Spent by Each Employee| [script](sql_scripts/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)|
 | 620. Not Boring Movies| [script](sql_scripts/620.%20Not%20Boring%20Movies.sql)|
 | 1148. Article Views I| [script](sql_scripts/1148.%20Article%20Views%20I.sql)|
+| 1068. Product Sales Analysis I| [script](sql_scripts/1068.%20Product%20Sales%20Analysis%20I.sql)|
