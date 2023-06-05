@@ -20,3 +20,4 @@ This repo will contains SQL problems That I solved at LeetCode.
 | 1148. Article Views I| [script](sql_scripts/1148.%20Article%20Views%20I.sql)|
 | 1068. Product Sales Analysis I| [script](sql_scripts/1068.%20Product%20Sales%20Analysis%20I.sql)|
 | 1251. Average Selling Price| [script](sql_scripts/1251.%20Average%20Selling%20Price.sql)|
+| 1280. Students and Examinations| [script](sql_scripts/1280.%20Students%20and%20Examinations.sql)|
